@@ -9,6 +9,7 @@ An interactive data visualization project using Plotly and Pandas to track globa
 - Extract key insights from COVID-19 data
 
 ## 🛠️ Tools & Libraries Used
+- Python
 - Pandas
 - Plotly Express
 - Jupyter Notebook
